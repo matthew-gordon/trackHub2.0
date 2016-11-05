@@ -15,15 +15,14 @@
 3. What features do we need to have?
 
 ## User Stories
-As a blank, I want to be able to blank, so that blank.
-	- As a user, I want to be able to create empty project so that I can work on the specific project.
-	- As a user, I want to be able to edit and delete projects so that I can manage the project easily.
-	- As a user, I want to be able to create tasks inside of the project so that I can track work to be done, and stay organized.
-	- As a user, I want to be able to assign the type of task, and priority level.
-	- As a user, I want to have a project wizard so that I can build a roadmap for the project.
-	- As a user, I want to have the ability to create/read/update/delete userflow wireframes so that I can plan the users experience through the app.
-	- As a user, I want to be able to create/read/update/delete low fidelity wireframes so that I can develop ideas for the project layout
-	- As a user, I want to be able to create/read/update/delete mid fidelity wireframes so that I can model the projects actual layout
+- As a user, I want to be able to create empty project so that I can work on the specific project.
+- As a user, I want to be able to edit and delete projects so that I can manage the project easily.
+- As a user, I want to be able to create tasks inside of the project so that I can track work to be done, and stay organized.
+- As a user, I want to be able to assign the type of task, and priority level.
+- As a user, I want to have a project wizard so that I can build a roadmap for the project.
+- As a user, I want to have the ability to create/read/update/delete userflow wireframes so that I can plan the users experience through the app.
+- As a user, I want to be able to create/read/update/delete low fidelity wireframes so that I can develop ideas for the project layout
+- As a user, I want to be able to create/read/update/delete mid fidelity wireframes so that I can model the projects actual layout
 	
 	
 
