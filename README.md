@@ -20,11 +20,11 @@
 ## User Stories
 As a blank, I want to be able to blank, so that blank.
 
-	[ ] - As a user, I want to be able to create a project, so that I can either collaborate with team members, or manage it myself.
+[ ] - As a user, I want to be able to create a project, so that I can either collaborate with team members, or manage it myself.
 	
-	[ ] - As a user, I want to be able to manage all of my projects, so that I can read them, update them, and delete them.
+[ ] - As a user, I want to be able to manage all of my projects, so that I can read them, update them, and delete them.
 	
-	[ ] - As a user, I want to be able to leave comments on 
+[ ] - As a user, I want to be able to leave comments on 
 
 ## Modeling our Data
 
