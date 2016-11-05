@@ -23,6 +23,7 @@
 - As a user, I want to have the ability to create/read/update/delete userflow wireframes so that I can plan the users experience through the app.
 - As a user, I want to be able to create/read/update/delete low fidelity wireframes so that I can develop ideas for the project layout
 - As a user, I want to be able to create/read/update/delete mid fidelity wireframes so that I can model the projects actual layout
+- As a user, I want to be able to model my projects necessary data.
 	
 	
 
