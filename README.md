@@ -79,15 +79,15 @@
 	
 ## Think thorught the pages I need in my app
 
-	- Home
-	- Projects#index(dashboard)
-		- Project#show(manager)
-			- Tasks#index
-				- Task#show(manager)
-			- Wireframes#index
-				- Wireframe#show(manager)
-			- Datamodel#index
-				- Datamodel#show(manager)
-		- Collaborators#index(manager)
-			- Collaborators#show(manager)	
-	- Contact
+1. - Home
+2. - Projects#index(dashboard)
+	- Project#show(manager)
+		- Tasks#index
+			- Task#show(manager)
+		- Wireframes#index
+			- Wireframe#show(manager)
+		- Datamodel#index
+			- Datamodel#show(manager)
+	- Collaborators#index(manager)
+		- Collaborators#show(manager)	
+3. - Contact
