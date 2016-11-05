@@ -1,32 +1,31 @@
 # Planning our application
 
 1. Answer questions
-	- What are we building?
-	- Who are we building it for?
-	- What features do we need to have?
+	- What am I building?
+	- Who am I building it for?
+	- What features do I need to have?
 2. User Stories
 3. Model our Data
-4. Think through the pages we need in our app
+4. Think through the pages I need in my app
 
 ## Questions
 
-1. What are we building?
-
-2. Who are we building it for? 
-
+1. What am I building? A project manager for web developers. A place where I can create projects to share with collaborators, or manage by myself.   
+2. Who am I building it for?  I am building it for myself, also for the web developmwnt community. Managing a project with a central location for tasks, assets, and planning. This will help project workflow and time management.
 3. What features do we need to have?
-	- feature
-	- features
-	- features
 
 ## User Stories
 As a blank, I want to be able to blank, so that blank.
-
-[ ] As a user, I want to be able to create a project, so that I can either collaborate with team members, or manage it myself.
+	- As a user, I want to be able to create empty project so that I can work on the specific project.
+	- As a user, I want to be able to edit and delete projects so that I can manage the project easily.
+	- As a user, I want to be able to create tasks inside of the project so that I can track work to be done, and stay organized.
+	- As a user, I want to be able to assign the type of task, and priority level.
+	- As a user, I want to have a project wizard so that I can build a roadmap for the project.
+	- As a user, I want to have the ability to create/read/update/delete userflow wireframes so that I can plan the users experience through the app.
+	- As a user, I want to be able to create/read/update/delete low fidelity wireframes so that I can develop ideas for the project layout
+	- As a user, I want to be able to create/read/update/delete mid fidelity wireframes so that I can model the projects actual layout
 	
-[ ] As a user, I want to be able to manage all of my projects, so that I can read them, update them, and delete them.
 	
-[ ] As a user, I want to be able to leave comments on 
 
 ## Modeling our Data
 
