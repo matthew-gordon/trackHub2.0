@@ -52,20 +52,20 @@
 ## Modeling our Data
 
 **Project**
-	title:string
-	description:textarea
-	projectmanager:string
-	comments:object
-		name:string
-		comment:textarea
-	collaborators:object
-		name:string
-	tasks:object
-		title:string
-		desc:textarea
-	wireframes:array:object
-		type:string
-		desc:textarea
+- title:string
+- description:textarea
+- projectmanager:string
+- comments:object
+	- name:string
+	- comment:textarea
+- collaborators:object
+	- name:string
+- tasks:object
+	- title:string
+	- desc:textarea
+- wireframes:array:object
+	- type:string
+	- desc:textarea
 
 **Users**
 	
