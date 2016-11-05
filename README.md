@@ -51,7 +51,7 @@
 
 ## Modeling our Data
 
-**Project**
+1. **Project**
 	- title:string
 	- description:textarea
 	- projectmanager:string
@@ -70,8 +70,8 @@
 		- title:string
 		- desc:textarea
 
-**Users**
-	username:string
-	authToken:string
-	projects:object
-	role:string
+2. **Users**
+	- username:string
+	- authToken:string
+	- projects:object
+	- role:string
