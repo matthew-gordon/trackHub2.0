@@ -16,6 +16,7 @@
 	- Projects
 		- Create / Edit/ Destroy
 		- Info roadmap wizard (Gather basic project information for skeleton)
+		- Kanban board
 		- Collaboration
 			- Communication
 				- Comments
