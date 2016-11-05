@@ -11,7 +11,7 @@
 ## Questions
 
 1. What am I building? A project manager for web developers. A place where I can create projects to share with collaborators, or manage by myself.   
-2. Who am I building it for?  I am building it for myself, also for the web developmwnt community. Managing a project with a central location for tasks, assets, and planning. This will help project workflow and time management.
+2. Who am I building it for?  I am building it for myself, also for the web development community. Managing a project with a central location for tasks, assets, and planning. This will help project workflow and time management.
 3. What features do we need to have?
 	- Projects
 		- Create / Edit/ Destroy
@@ -76,3 +76,18 @@
 	- authToken:string
 	- projects:object
 	- role:string
+	
+## Think thorught the pages I need in my app
+
+	- Home
+	- Projects#index(dashboard)
+		- Project#show(manager)
+			- Tasks#index
+				- Task#show(manager)
+			- Wireframes#index
+				- Wireframe#show(manager)
+			- Datamodel#index
+				- Datamodel#show(manager)
+		- Collaborators#index(manager)
+			- Collaborators#show(manager)	
+	- Contact
